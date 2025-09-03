@@ -36,17 +36,17 @@ The analysis helps decision-makers identify high-risk customers and design bette
 ## 📸 Dashboard Previews
 
 ### Overview Page
-![Dashboard Overview](images/Overview Page.png)
+![Dashboard Overview](images/Overview-Page.png)
 
 ### Churn by Contract Type
 Customers on month-to-month contracts show the highest churn.
-![Churn by Contract](images/Churn by Contract-Type.png)
+![Churn by Contract](images/Churn-by-Contract-Type.png)
 
 ### Churn demographics
 ![Churn demographics](images/Churn-Demographics.png)
 
 ### Churn by grouped consumption and unlimited plans
-![Churn by grouped consumption and unlimited plans ](images/Churn by grouped consumption and unlimited plans.png)
+![Churn by grouped consumption and unlimited plans](images/Churn-by-grouped-consumption-and-unlimited-plans.png)
 
 ### Churn rate by states
-![Churn by states](images/Churn rate by states.png)
+![Churn by states](images/Churn-rate-by-states.png)
